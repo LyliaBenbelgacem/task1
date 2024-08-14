@@ -1,0 +1,52 @@
+{
+  "signup": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "phoneNumber": "+1234567890",
+      "gender": "male",
+      "isChecked": true,
+      "post": "Developer",
+      "date": "2024-08-14"
+    },
+    {
+      "id": "a856",
+      "firstName": "test",
+      "lastName": "testing",
+      "email": "fast@gmail.com",
+      "password": "test123",
+      "phoneNumber": "+216555555555",
+      "gender": "female",
+      "isChecked": false,
+      "post": "",
+      "date": ""
+    },
+    {
+      "id": "fa2c",
+      "firstName": "test",
+      "lastName": "testing",
+      "email": "fast@gmail.com",
+      "password": "test123",
+      "phoneNumber": "+216555555555",
+      "gender": "female",
+      "isChecked": true,
+      "post": "devops-engineer",
+      "date": "2000-09-08"
+    }
+  ],
+  "login": [
+    {
+      "id": "1",
+      "email": "john@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "0dc8",
+      "email": "benbelgacem@gmail.com",
+      "password": "test123"
+    }
+  ]
+}
